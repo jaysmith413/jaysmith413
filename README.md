@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Jay Smith, and I am currently learning to become a software developer.
 
 <!--
 **jaysmith413/jaysmith413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
